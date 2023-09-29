@@ -1,0 +1,43 @@
+,id,url,name,bathrooms,bedrooms,beds,isSuperhost,lat,lng,persons,reviewsCount,rating,type,address,price_total
+0,52362544,https://www.airbnb.com/rooms/52362544,A Tiny Cozy Space to Relax & Rewind|Prime Location,1.0,1,1,True,22.502905,88.362953,2,195,4.99,Entire guest suite,"Kolkata, West Bengal, India",1876
+1,49329192,https://www.airbnb.com/rooms/49329192,Contemporary mini apartment : easy walk to PARK St,1.0,1,1,True,22.55023,88.35077,2,117,4.91,Entire condo,"Kolkata, West Bengal, India",3248
+2,42461440,https://www.airbnb.com/rooms/42461440,"Siddha Xanadu, Alpha II Apt-831 Near Airport n CC2",1.0,0,2,True,22.63461,88.46654,5,157,4.66,Entire serviced apartment,"Kolkata, West Bengal, India",3197
+3,14288858,https://www.airbnb.com/rooms/14288858,Most luxurious experience at this price,1.0,1,2,True,22.49447,88.39686,2,296,4.92,Private room in home,"Kolkata, West Bengal, India",2190
+4,48457145,https://www.airbnb.com/rooms/48457145,Modern Unique Studio Apartment in Central Kolkata,1.0,1,1,True,22.56228,88.3614,3,132,4.96,Entire condo,"Kolkata, West Bengal, India",3605
+5,51811224,https://www.airbnb.com/rooms/51811224,Work Friendly studio in Kolkata by Handmade Homes,1.0,1,1,False,22.51066,88.34723,2,65,4.63,Room in boutique hotel,"Kolkata, West Bengal, India",2575
+6,47931163,https://www.airbnb.com/rooms/47931163,PLUSH HOME ENVIRONMENT STAY IN SOUTH KOLKATA,2.0,3,3,True,22.51272,88.33755,4,64,4.92,Entire rental unit,"Kolkata, West Bengal, India",4508
+7,8260603,https://www.airbnb.com/rooms/8260603,RedBrick Residency 2- Heritage GH,1.0,1,1,True,22.54474,88.35256,2,109,4.82,Entire rental unit,"Kolkata, West Bengal, India",4576
+8,20040117,https://www.airbnb.com/rooms/20040117,Contemporary|Attched Patio|Courtyard|wi fi|brkfast,1.0,1,1,True,22.52694,88.35505,2,94,4.84,Private room in bungalow,"Kolkata, West Bengal, India",3136
+9,13653103,https://www.airbnb.com/rooms/13653103,"Premium Apartment, Kolkata Airport",2.0,1,3,True,22.65592,88.43279,6,135,4.91,Private room in guest suite,"Kolkata, West Bengal, India",1288
+10,46151136,https://www.airbnb.com/rooms/46151136,Premium Luxury Apartment - 7,1.0,1,3,False,22.583117,88.421165,2,111,4.86,Entire condo,"Kolkata, West Bengal, India",6572
+11,765244385965389264,https://www.airbnb.com/rooms/765244385965389264,Ballygunge 1000sqft flat main rd,1.5,1,1,True,22.528943,88.36603799999999,5,30,5.0,Entire serviced apartment,"Kolkata, West Bengal, India",4971
+12,38928615,https://www.airbnb.com/rooms/38928615,HANDMADE HOMES Golpark : SANITIZED 5 BED ApartmeNT,5.0,5,6,False,22.51563,88.369,11,24,4.71,Entire rental unit,"Kolkata, West Bengal, India",14288
+13,29748362,https://www.airbnb.com/rooms/29748362,South City Towers. A magnificent view from top.,1.5,1,2,True,22.50033,88.35871,1,88,5.0,Private room in condo,"Kolkata, West Bengal, India",2061
+14,51277327,https://www.airbnb.com/rooms/51277327,Ballygunge Two bedroom 1000sqft apartment main rd.,1.0,2,2,True,22.53014,88.36706,6,161,4.93,Entire serviced apartment,"Kolkata, West Bengal, India",3306
+15,21083269,https://www.airbnb.com/rooms/21083269,Penthouse with Terrace: NewYork by the South Lakes,1.0,1,2,True,22.51221,88.3486,4,304,4.9,Entire rental unit,"Kolkata, West Bengal, India",5796
+16,695225907558527298,https://www.airbnb.com/rooms/695225907558527298,Meraki Inn - New Boutique hotel 103,1.0,1,21,False,22.5862889,88.4049385,2,38,4.76,Room in boutique hotel,"Kolkata, West Bengal, India",2576
+17,4859356,https://www.airbnb.com/rooms/4859356,Private ensuite room with shared living room,1.0,1,2,False,22.52935,88.36078,2,298,4.62,Private room in condo,"Kolkata, West Bengal, India",1931
+18,38292877,https://www.airbnb.com/rooms/38292877,The Park Street View - The Aster Heritage,1.0,1,1,False,22.55323,88.3533,4,81,4.78,Private room in condo,"Kolkata, West Bengal, India",3864
+19,38941041,https://www.airbnb.com/rooms/38941041,HandMade Homes Golpark: Sanitized  3 Bed Apartment,3.0,3,3,False,22.515026092529297,88.3701171875,7,45,4.58,Entire rental unit,"Kolkata, West Bengal, India",8050
+20,909168976911074337,https://www.airbnb.com/rooms/909168976911074337,"Lavish Xanadu Studio Apt - 821, Near Airport n CC2",1.0,1,2,True,22.63378,88.4647,7,15,4.73,Entire rental unit,"Kolkata, West Bengal, India",3583
+21,53520417,https://www.airbnb.com/rooms/53520417,Work friendly Micro studios by Handmade Homes,1.0,1,1,False,22.51275,88.34761,2,34,4.56,Room in boutique hotel,"Kolkata, West Bengal, India",2574
+22,27412591,https://www.airbnb.com/rooms/27412591,Spacious home in upscale locality,1.5,1,2,False,22.52811,88.3579,2,7,5.0,Private room in condo,"Kolkata, West Bengal, India",2164
+23,48406386,https://www.airbnb.com/rooms/48406386,Boutique Room 5,1.0,1,1,False,22.58262,88.42183,2,119,4.78,Private room in home,"Kolkata, West Bengal, India",3286
+24,950636090235894895,https://www.airbnb.com/rooms/950636090235894895,Central Kolkata Stylish 1BHK Apartment,1.0,1,1,False,22.562312018678977,88.36200922880623,3,7,5.0,Entire rental unit,"Kolkata, West Bengal, India",3864
+25,17183076,https://www.airbnb.com/rooms/17183076,7kms from Airport | Comfy | B&B,1.5,0,1,True,22.6281,88.4475,2,164,4.8,Private room in rental unit,"Kolkata, West Bengal, India",1352
+26,879422266050498150,https://www.airbnb.com/rooms/879422266050498150,Modern Studio Apartment With Pool @siddhaXanadu929,1.0,1,3,False,22.63378,88.46526,9,17,4.65,Entire rental unit,"Kolkata, West Bengal, India",2704
+27,924469825206753009,https://www.airbnb.com/rooms/924469825206753009,a quiet cosy place with great connectivity.,1.0,1,1,False,22.5208533,88.3963849,3,9,4.89,Private room in rental unit,"Kolkata, West Bengal, India",1263
+28,611974202258162321,https://www.airbnb.com/rooms/611974202258162321,Ani's Homestay near Hazra.,1.0,1,1,True,22.523256,88.344116,2,27,4.7,Entire guesthouse,"Kolkata, West Bengal, India",2834
+29,753279770273723121,https://www.airbnb.com/rooms/753279770273723121,"Aesthetic, Premium & Spacious 2BHK in Ballygunge",1.0,2,2,True,22.52129,88.37054,5,70,4.93,Entire condo,"Kolkata, West Bengal, India",3090
+30,27374480,https://www.airbnb.com/rooms/27374480,Modern large Bedroom |Wi fi |courtyard |Breakfast,1.0,1,1,True,22.52575,88.35486,2,18,5.0,Private room in home,"Kolkata, West Bengal, India",2968
+31,623700090625715893,https://www.airbnb.com/rooms/623700090625715893,"Corporate Inn New Town, Near Eco Park",1.0,1,1,False,22.586235,88.473114,2,61,4.74,Private room in bed and breakfast,"New Town, West Bengal, India",1417
+32,53617740,https://www.airbnb.com/rooms/53617740,"Spacious Room w/ Large Balcony Near Salt Lake, CC1",1.0,1,1,False,22.5805,88.41584,2,7,4.86,Private room in casa particular,"Kolkata, West Bengal, India",3220
+33,51007943,https://www.airbnb.com/rooms/51007943,"Private room , Airport",1.5,1,1,True,22.65391,88.42848,4,56,4.98,Private room in rental unit,"Kolkata, West Bengal, India",1030
+34,797096872564270349,https://www.airbnb.com/rooms/797096872564270349,"Bose Apartment - Adorable 1 Bedroom with Wi-Fi, TV",1.0,1,1,False,22.58061,88.41739,2,11,5.0,Private room in guest suite,"Kolkata, West Bengal, India",1668
+35,20273509,https://www.airbnb.com/rooms/20273509,Joy Heritage Home,1.0,0,1,False,22.52605,88.36047,2,67,4.68,Private room in home,"Kolkata, West Bengal, India",1635
+36,18185398,https://www.airbnb.com/rooms/18185398,"Luxury Apartment
+1-2 Bed 
+Hindustan Park",1.0,2,2,False,22.51539,88.36276,4,104,4.67,Entire condo,"Kolkata, West Bengal, India",4507
+37,820881967133119385,https://www.airbnb.com/rooms/820881967133119385,A centrally located HOME with everything accesible,1.5,1,1,False,22.495305634938127,88.33898305892944,2,4,4.75,Private room in rental unit,"Kolkata, West Bengal, India",1416
+38,972837287333946927,https://www.airbnb.com/rooms/972837287333946927,Apartment in Kolkata,1.0,1,2,False,22.5174232,88.3852031,3,3,5.0,Private room in home,"Kolkata, West Bengal, India",1288
+39,52467516,https://www.airbnb.com/rooms/52467516,Lovely 2 bedroom with attached washroom and kitchen,2.0,2,2,False,22.5502,88.39951,5,68,4.75,Entire condo,"Kolkata, West Bengal, India",4508
